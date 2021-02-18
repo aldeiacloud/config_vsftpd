@@ -1,6 +1,8 @@
 # config_vsftpd
 Configuração fácil do serviço VSFTPD para Ubuntu Server.
 
-Script base para o vídeo: http://youtube.com.br/
+<b>Dependências:</b> Liberação da porta 20~21 TCP (FTP Ports) e de 10100~10110 TCP (FTP Passive Ports)
+
+<b>Script base para o vídeo: http://youtube.com.br/</b>
 
 cd /tmp && sudo wget https://raw.githubusercontent.com/aldeiacloud/config_vsftpd/main/configure_vsftpd.sh && sudo chmod +x configure_vsftpd.sh && sudo ./configure_vsftpd.sh 
