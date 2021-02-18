@@ -1,10 +1,10 @@
-# config_vsftpd
-<b>Configure facilmente o serviço VSFTPD no Ubuntu Server.</b>
+<h2>Configure facilmente o serviço VSFTPD no Ubuntu Server!</h2>
 
+-------------------------------------------------------------------------------------
 <b>Dependências:</b> Liberação das portas abaixo, no SG da instância:<br>
 20 ~ 21 TCP (FTP Ports)<br>
 10100 ~ 10110 TCP (FTP Passive Ports)<br>
-
+<br>
 <b>Assista: http://youtube.com.br/</b>
 <br>
 <br>
