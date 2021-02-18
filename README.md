@@ -5,7 +5,7 @@
 20 ~ 21 TCP (FTP Ports)<br>
 10100 ~ 10110 TCP (FTP Passive Ports)<br>
 
-<b>Script base para o vídeo: http://youtube.com.br/</b>
+<b>Assista: http://youtube.com.br/</b>
 <br>
 <br>
 <b>Comando:</b><br>
