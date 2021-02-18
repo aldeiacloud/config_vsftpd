@@ -1,7 +1,7 @@
 # config_vsftpd
 Configuração fácil do serviço VSFTPD para Ubuntu Server.
 
-<b>Dependências:</b> Liberação das portas 20,21 TCP (FTP Ports) e de 10100-10110 TCP (FTP Passive Ports)
+<b>Dependências:</b> Liberação das portas 20,21 TCP (FTP Ports) e de 10100 à 10110 TCP (FTP Passive Ports)
 
 <b>Script base para o vídeo: http://youtube.com.br/</b>
 
